@@ -50,7 +50,7 @@ public class M3_Activtity2 {
 			for (String i : products) {
 				System.out.println(i);
 			}
-			System.out.println("The total number unique products is " + products.size());
+			System.out.println("The total number of unique products is " + products.size());
 			break;
 		case 4:
             System.out.println("Exiting program. Goodbye!");
